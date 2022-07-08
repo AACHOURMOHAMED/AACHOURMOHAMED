@@ -20,7 +20,6 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 
 👯 I’m looking forward to collaborating on React JS  projects. 
 
-## Statistics :bar_chart:
 
 
 ## Contact 📫
