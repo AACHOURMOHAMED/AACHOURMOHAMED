@@ -12,7 +12,7 @@ Web buidling blocks: <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E3
 <img alt="json" src="https://img.shields.io/badge/json-563D7C?style=for-the-badge&logo=json&logoColor=white">
 <img alt="yaml" src="https://img.shields.io/badge/yaml-563D7C?style=for-the-badge&logo=yaml&logoColor=white">
 
-Frameworks: <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23092E20.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="docker" src="https://img.shields.io/badge/docker-0093d7?style=for-the-badge&logo=docker&logoColor=white"> <img alt="nginx" src="https://img.shields.io/badge/nginx-009137?style=for-the-badge&logo=nginx&logoColor=white"> <img alt="jest" src="https://img.shields.io/badge/jest-916f79?style=for-the-badge&logo=jest&logoColor=white"> <img alt="rspec" src="https://img.shields.io/badge/rspec-f53f5d?style=for-the-badge&logo=rspec&logoColor=white">
+Frameworks: <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23092E20.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 
 
 
