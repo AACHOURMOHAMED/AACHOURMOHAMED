@@ -20,7 +20,11 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 
 👯 I’m looking forward to collaborating on React JS  projects. 
 
+## 📈 Github Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AACHOURMOHAMED&theme=gruvbox&background=003559&ring=FFFFFF&fire=FFFFFF&currStreakNum=9F9F9F&dates=9F9F9F&sideNums=9F9F9F&currStreakLabel=9F9F9F&sideLabels=9F9F9F)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AACHOURMOHAMED&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559" alt="AACHOURMOHAMED" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AACHOURMOHAMED&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559&amp;count_private=true" alt="AACHOURMOHAMED" />
 
 ## Contact 📫
 
