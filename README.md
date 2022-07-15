@@ -1,7 +1,9 @@
 
 
 ## About Me 😄
-:wave: Hey, I am Mohamed (ashour); a Front-end Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.
+:wave: Hey, I am Mohamed (ashour); a Front-end Software Developer who lays bricks on the  
+internet, creating beautiful paths and solving problems for enterprises and individuals.![4884785](https://user-images.githubusercontent.com/92208712/179262854-70f8809d-8225-4791-b961-9a1e4ab9ff39.jpg)
+
 
 🔭 I’m available for hire in roles concerning Front end  Web Development.
 ## Tech-Stack, Tools & Technologies :computer:
