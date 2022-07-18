@@ -1,7 +1,8 @@
 
 
+
 ## About Me 😄
-:wave: Hey, I am Mohamed (ashour) a Front-end Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.!
+:wave: Hey, I am Mohamed (Ashour) a Front-end Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.!
 
 
 🔭 I’m available for hire in roles concerning Front end  Web Development.
@@ -19,7 +20,7 @@ Frameworks: <img alt="React" src="https://img.shields.io/badge/react%20-%2320232
 
 Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
-👯 I’m looking forward to collaborating on React JS  projects. 
+👯 I'm looking forward to collaborating on React JS projects.
 
 ## 📈 Github Stats
 
