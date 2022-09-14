@@ -2,7 +2,7 @@
 
 
 ## About Me 😄
-:wave: Hey, I am Mohamed (Ashour) a Front-end Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.!
+:wave: Hey, I am Mohamed (Ashour) Aachour a Front-end Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.!
 
 
 🔭 I’m available for hire in roles concerning Front end  Web Development.
