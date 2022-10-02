@@ -32,4 +32,3 @@ Tools: <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the
 
 
 - 💬 How to reach me: ... [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aachour-25405b215/) 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAachour3)
