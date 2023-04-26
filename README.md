@@ -1,28 +1,26 @@
-
-
-
 ## About Me 😄
-:wave: Hey, I am Mohamed (Ashour) Aachour a Front-end Software Developer who lays bricks on the internet, creating beautiful paths and solving problems for enterprises and individuals.!
 
+:wave: Hey, I am Mohamed (Ashour) Aachour, a Front-end Software Developer passionate about crafting beautiful and efficient web solutions for enterprises and individuals. I am eager to collaborate on projects that make a difference!
 
-🔭 I’m available for hire in roles concerning Front end  Web Development.
-## Tech-Stack, Tools & Technologies :computer:
+🔭 I’m available for hire in roles related to Front-End Web Development.
 
-### Languages:   
+## Tech Stack, Tools & Technologies :computer:
 
-<img alt="Languages" src="https://skillicons.dev/icons?i=js,ts"/> 
+### Languages:
 
-### Web building blocks:
+:atom: JavaScript | :atom: TypeScript
 
-<img alt="Web Building Blocks" src="https://skillicons.dev/icons?i=html,css,sass,json"/>
+### Web Building Blocks:
 
-### Frameworks: 
+:triangular_ruler: HTML | :art: CSS | :art: Sass | :open_file_folder: JSON
 
-<img alt="Frameworks" src="https://skillicons.dev/icons?i=react,redux,bootsrap"/>
+### Frameworks:
 
-### Tools: 
+:atom: React | :arrows_counterclockwise: Redux | :boot: Bootstrap
 
-<img alt="git" src="https://skillicons.dev/icons?i=git"/>
+### Tools:
+
+:octocat: Git | :octocat: GitHub
 
 👯 I'm looking forward to collaborating on React JS projects.
 
@@ -34,4 +32,4 @@
 
 ## 💬 How to reach me
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohamed-aachour-25405b215/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-aachour-25405b215/)
