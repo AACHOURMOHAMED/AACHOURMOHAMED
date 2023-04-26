@@ -1,35 +1,39 @@
-## About Me 😄
+## 🌟 About Me
 
-:wave: Hey, I am Mohamed (Ashour) Aachour, a Front-end Software Developer passionate about crafting beautiful and efficient web solutions for enterprises and individuals. I am eager to collaborate on projects that make a difference!
+Hello! I'm Mohamed (Ashour) Aachour 👋, a Front-end Software Developer with a knack for creating eye-catching, efficient web solutions for both enterprises and individuals. I thrive on making a difference through my work and am eager to collaborate on meaningful projects!
 
-🔭 I’m available for hire in roles related to Front-End Web Development.
+🎯 I'm currently seeking opportunities in Front-End Web Development.
 
-## Tech Stack, Tools & Technologies :computer:
+## 🚀 Skills & Technologies
 
-### Languages:
+### 🎨 Languages:
 
-:atom: JavaScript | :atom: TypeScript
+JavaScript | TypeScript
 
-### Web Building Blocks:
+### 🌐 Web Building Blocks:
 
-:triangular_ruler: HTML | :art: CSS | :art: Sass | :open_file_folder: JSON
+HTML | CSS | Sass | JSON
 
-### Frameworks:
+### 🛠️ Frameworks & Libraries:
 
-:atom: React | :arrows_counterclockwise: Redux | :boot: Bootstrap
+React | Redux | Bootstrap | Material-UI | WebSocket | Tailwind CSS
 
-### Tools:
+### 🔧 Tools:
 
-:octocat: Git | :octocat: GitHub
+Git | GitHub | Heroku | Netlify | RSpec | TDD | Chrome Dev Tools
 
-👯 I'm looking forward to collaborating on React JS projects.
+### 💼 Professional Skills:
 
-## 📈 Github Stats
+Remote Pair-Programming | Teamwork | Mentoring
+
+🤝 I'm excited to collaborate on React JS projects!
+
+## 📊 Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AACHOURMOHAMED&theme=github-dark&border=DADADA&ring=4C8EDA&fire=DD7A22&dates=4C8EDA)](https://git.io/streak-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AACHOURMOHAMED&amp;show_icons=true&theme=github_dark" alt="AACHOURMOHAMED" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AACHOURMOHAMED&amp;show_icons=true&theme=github_dark&amp;count_private=true" alt="AACHOURMOHAMED" />
 
-## 💬 How to reach me
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-aachour-25405b215/)
