@@ -9,6 +9,7 @@ Hi! I'm Mohamed (Ashour) Aachour 👋, a Full Stack Web Developer driven by a pa
 ### 🎨 Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black)
 
 ### 🌐 Web Building Blocks:
 
