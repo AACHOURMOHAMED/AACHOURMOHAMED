@@ -1,44 +1,70 @@
-## 🌟 About Me
+<!-- Modern GitHub README for Mohamed (Ashour) Aachour -->
 
-Hi! I'm Mohamed (Ashour) Aachour 👋, a Full Stack Web Developer driven by a passion to create dynamic, user-friendly web experiences. I'm always eager to contribute to significant projects!
+# 🚀 Mohamed (Ashour) Aachour | Full Stack Software Engineer  
 
-🎯 I'm actively seeking opportunities in Full Stack Web Development.
+Hi there! 👋 I'm **Mohamed Aachour**, a passionate **Full Stack Developer** with expertise in **MERN, Next.js, NestJS, and GraphQL**. I love **building scalable applications, microservices, and AI-driven platforms** while optimizing performance for seamless user experiences.
 
-## 🚀 Skills & Technologies
+💡 **Currently Building:**  
+🔹 [ITDigitalNet](https://itdigitalnet.com) – My **software agency**  
+🔹 AI-powered **PDF Enhancer** 📚  
+🔹 Scalable **Transport Management System** 🚛  
+🔹 MERN-based **Tetris Game** 🎮  
 
-### 🎨 Languages:
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-0081CB?style=flat-square&logo=typescript&logoColor=white)
+## 🛠️ Tech Stack & Skills  
 
-### 🌐 Web Building Blocks:
+### 🔹 **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white)  
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+### 🔹 **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat&logo=hasura&logoColor=white)  
 
-### 🛠️ Frameworks & Libraries:
+### 🔹 **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+### 🔹 **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 
-### 📚 Databases:
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+## 📈 GitHub Stats  
 
-### 🔧 Tools:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AACHOURMOHAMED&theme=github-dark&border=DADADA&ring=4C8EDA&fire=DD7A22&dates=4C8EDA" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AACHOURMOHAMED&show_icons=true&theme=github_dark&count_private=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AACHOURMOHAMED&show_icons=true&theme=github_dark" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) 
+---
 
-### 💼 Professional Skills:
+## 💡 What I Bring to the Table  
 
-Remote Pair-Programming | Teamwork | Mentoring
+✅ **Full Stack Expertise** – End-to-end development, from UI/UX to backend logic  
+✅ **Scalability & Microservices** – Clean architecture, API design, and performance tuning  
+✅ **AI & Innovation** – Exploring AI-powered applications and automation  
+✅ **Mentorship & Teamwork** – Sharing knowledge and driving project success  
 
-🤝 I'm excited to collaborate on Full Stack projects!
+---
 
-## 📊 Github Stats
+## 📬 Connect with Me  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AACHOURMOHAMED&theme=github-dark&border=DADADA&ring=4C8EDA&fire=DD7A22&dates=4C8EDA)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AACHOURMOHAMED&amp;show_icons=true&theme=github_dark" alt="AACHOURMOHAMED" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AACHOURMOHAMED&amp;show_icons=true&theme=github_dark&amp;count_private=true" alt="AACHOURMOHAMED" />
+📧 **Email:** [mohamaachour@gmail.com](mailto:mohamaachour@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohamed-aachour-25405b215/)  
+🌐 **Portfolio:** [itdigitalnet.com](https://itdigitalnet.com)  
 
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-aachour-25405b215/)
+🚀 **Let’s Build Something Amazing Together!**
