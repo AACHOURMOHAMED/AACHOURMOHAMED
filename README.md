@@ -1,70 +1,89 @@
-<!-- Modern GitHub README for Mohamed (Ashour) Aachour -->
+<!-- Unique / Fancy GitHub README for Mohamed Aachour -->
 
-# 🚀 Mohamed (Ashour) Aachour | Full Stack Software Engineer  
-
-Hi there! 👋 I'm **Mohamed Aachour**, a passionate **Full Stack Developer** with expertise in **MERN, Next.js, NestJS, and GraphQL**. I love **building scalable applications, microservices, and AI-driven platforms** while optimizing performance for seamless user experiences.
-
-💡 **Currently Building:**  
-🔹 [ITDigitalNet](https://itdigitalnet.com) – My **software agency**  
-🔹 AI-powered **PDF Enhancer** 📚  
-🔹 Scalable **Transport Management System** 🚛  
-🔹 MERN-based **Tetris Game** 🎮  
-
----
-
-## 🛠️ Tech Stack & Skills  
-
-### 🔹 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white)  
-
-### 🔹 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
-![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat&logo=hasura&logoColor=white)  
-
-### 🔹 **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
-
-### 🔹 **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-
----
-
-## 📈 GitHub Stats  
+<h1 align="center">Mohamed Aachour</h1>
+<p align="center">
+  <b>Senior Full-Stack Software Engineer</b> • SaaS • Microservices • Cloud • AI Automation
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AACHOURMOHAMED&theme=github-dark&border=DADADA&ring=4C8EDA&fire=DD7A22&dates=4C8EDA" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AACHOURMOHAMED&show_icons=true&theme=github_dark&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AACHOURMOHAMED&show_icons=true&theme=github_dark" />
+  <a href="https://mohamedaachour.me">🌐 Portfolio</a> •
+  <a href="mailto:mohamaachour@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/mohamed-aachour-25405b215/">💼 LinkedIn</a> •
+  <a href="https://github.com/AACHOURMOHAMED">💻 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Building+scalable+SaaS+products+with+Next.js+%2B+NestJS+%2B+AWS;Event-driven+microservices+%7C+Kafka+%7C+PostgreSQL;Performance-first+APIs+%28sub-100ms%29+%7C+Clean+architecture;Python+for+automation+%26+AI-powered+workflows" />
 </p>
 
 ---
 
-## 💡 What I Bring to the Table  
+## ✨ About
+I’m **Mohamed Aachour**, a **Full-Stack Software Engineer (4+ years)** building **production SaaS**, **event-driven microservices**, and **cloud-native systems**.
 
-✅ **Full Stack Expertise** – End-to-end development, from UI/UX to backend logic  
-✅ **Scalability & Microservices** – Clean architecture, API design, and performance tuning  
-✅ **AI & Innovation** – Exploring AI-powered applications and automation  
-✅ **Mentorship & Teamwork** – Sharing knowledge and driving project success  
+I work mainly with **TypeScript (NestJS/Next.js)** and use **Python** for **automation, AI workflows, and data processing**.  
+I care about **speed, reliability, and clean architecture**—systems that scale and stay maintainable.
 
 ---
 
-## 📬 Connect with Me  
+## 🧩 What I build
+- **SaaS platforms** (multi-tenant, scalable, maintainable)
+- **Microservices** (Kafka, async processing, clean boundaries)
+- **High-performance APIs** (latency & throughput obsessed)
+- **AI-assisted features** (automation, extraction, enrichment)
+- **CI/CD & Cloud** (EKS, GitHub Actions, Docker)
 
-📧 **Email:** [mohamaachour@gmail.com](mailto:mohamaachour@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohamed-aachour-25405b215/)  
-🌐 **Portfolio:** [itdigitalnet.com](https://itdigitalnet.com)  
+---
 
-🚀 **Let’s Build Something Amazing Together!**
+## 🛠️ Stack I ship with
+
+**Frontend**
+- React • Next.js • TypeScript • TailwindCSS • Redux Toolkit
+
+**Backend**
+- Node.js • NestJS • GraphQL/REST • Kafka  
+- **Python** (automation, AI pipelines, data tools)
+
+**Data**
+- PostgreSQL • MongoDB • Redis
+
+**Cloud / DevOps**
+- AWS • Docker • Kubernetes (EKS) • GitHub Actions • Testing (Jest/Cypress)
+
+---
+
+## 🏗️ Current Focus
+- 🏢 **ITDigitalNet** — Software agency & product studio  
+- 🧠 **AI-powered CRM** — lead capture, enrichment & routing  
+- 🏫 **Taaleem.ma** — school management SaaS (200+ institutions)  
+- 🪪 **Voscard.ma** — NFC digital business cards
+
+---
+
+## 📌 Impact Highlights
+- Built microservices that improved **qualified lead generation by ~50%**
+- Implemented **sub-100ms routing logic**, cutting response time significantly
+- Shipped **cloud CI/CD on AWS EKS**, enabling frequent, reliable releases
+- Improved collaboration and quality through **mentorship + standards**
+
+---
+
+## 📊 Signals
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AACHOURMOHAMED&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AACHOURMOHAMED&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AACHOURMOHAMED&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let’s build
+If you’re hiring or building something ambitious, I’m open to:
+- **Senior Full-Stack roles**
+- **Backend / Microservices roles**
+- **SaaS MVPs & scaling projects**
+
+📩 **mohamaachour@gmail.com**  
+🌐 **https://mohamedaachour.me**
